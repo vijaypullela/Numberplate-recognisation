@@ -7,4 +7,4 @@ Steps to work on the above files:
 3) It's done with Python and Xml file now it's HTML file as we used to Deploy the model we used flask and the major part comes here before copying the upload.html make sure to create a folder named tempaltes and in that folder save your upload.html file if not html files wont work.
 4) Run the flask application(Python file) and click on the IP address displayed on the output in majority cases it will be 127......5000 and similar ones copy the IP address and paste on the address bar and press enter.That's it.
 
-
+Output of the program is being uploaded above the input will be an image which is "car-embossed.jpg" and the output is also an image "car-embossed..png". 
